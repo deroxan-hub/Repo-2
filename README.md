@@ -1,4 +1,4 @@
-# Fun Calculator 🎉
+# My Fun Calculator 🎉
 
 A simple and fun calculator that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two user-input numbers. 
 
