@@ -28,15 +28,6 @@ Product: 20.0
 Quotient: 5.0
 ```
 
-## Notes ⚠️
-- The calculator does not handle division by zero gracefully—if `num2` is `0`, the program will crash with an error. For a more robust version, consider adding error handling (e.g., `try-except`).
-- The code uses `float()` for input, so both integers and decimals are supported.
 
-## Future Improvements 🔧
-- Add error handling for invalid inputs (e.g., non-numeric values).
-- Extend functionality to support more operations (e.g., exponentiation, modulus).
-- Add a loop to allow multiple calculations without restarting the program.
-
----
 
 Enjoy calculating like a boss! 😎
