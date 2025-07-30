@@ -1,17 +1,17 @@
-# My Fun Calculator 🎉
+# My Fun Calculator 
 
 A simple and fun calculator that performs basic arithmetic operations (addition, subtraction, multiplication, and division) on two user-input numbers. 
 
 ## Features ✨
-- Takes two numbers as input (supports decimals! 🧮)
+- Takes two numbers as input (supports decimals! )
 - Performs the following operations:
   - **Addition** (`num1 + num2`) ➕
   - **Subtraction** (`num1 - num2`) ➖
   - **Multiplication** (`num1 * num2`) ✖️
-  - **Division** (`num1 / num2`) ➗ (Note: Division by zero will crash the program! 🚨)
-- Prints the results in a fun and readable format. 🎉
+  - **Division** (`num1 / num2`) ➗ (Note: Division by zero will crash the program! 🚫)
+- Prints the results in a fun and readable format. 
 
-## How to Use 🚀
+## How to Use 
 1. Run the script in a Python environment (Python 3.x recommended).
 2. Enter the first number when prompted.
 3. Enter the second number when prompted.
@@ -30,4 +30,4 @@ Quotient: 5.0
 
 
 
-Enjoy calculating like a boss! 😎
+Enjoy my calculator. Thank you
