@@ -20,7 +20,7 @@ A simple and fun calculator that performs basic arithmetic operations (addition,
 ### Example Input/Output:
 ```
 Enter the first number: 10
-Enter the second number: 2
+Enter the second number: 5
 Results of your two numbers:
 Sum: 12.0
 Difference: 8.0
