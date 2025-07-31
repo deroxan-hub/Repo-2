@@ -9,11 +9,11 @@ A simple and fun calculator that performs basic arithmetic operations (addition,
   - **Addition** (`num1 + num2`) ➕
   - **Subtraction** (`num1 - num2`) ➖
   - **Multiplication** (`num1 * num2`) ✖️
-  - **Division** (`num1 / num2`) ➗ (Note: Division by zero will crash the program! 🚫)
+  - **Division** (`num1 / num2`) ➗ 
 - Prints the results in a fun and readable format. 
 
 ## How to Use 
-1. Run the script in a Python environment (Python 3.x recommended).
+1. Run the script in a Python environment 
 2. Enter the first number when prompted.
 3. Enter the second number when prompted.
 4. The calculator will display the results of all four operations.
@@ -29,6 +29,6 @@ Product: 20.0
 Quotient: 5.0
 ```
 
-
-
 Enjoy my calculator. Thank you
+
+
